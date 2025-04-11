@@ -55,6 +55,7 @@ apt-get install -y \
     libffi-dev \
     liblzma-dev \
     python3-openssl \
+    libyaml-dev \
     git \
     zsh \
     apt-transport-https \
